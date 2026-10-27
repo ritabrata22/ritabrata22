@@ -40,7 +40,6 @@
 
 | Project | Description |
 |---|---|
-| **Intelligent Mule Account Detection** | Hackathon project exploring technology-driven financial fraud detection and mule account investigation. |
 | **Trace — OSINT / CTF** | Practical challenges, investigation notes, and write-ups associated with the Trace platform. |
 | **Cybersecurity Labs & Write-ups** | Hands-on learning exercises, technical notes, and security research. |
 
