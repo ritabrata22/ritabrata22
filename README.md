@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/ritabrata25">
     <img src="https://img.shields.io/badge/LinkedIn-ritabrata25-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
 </p>
 
 ---
