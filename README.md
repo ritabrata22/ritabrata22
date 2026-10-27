@@ -35,13 +35,6 @@
 
 ---
 
-## 🚀 Projects
-
-| Project | Description |
-|---|---|
-| **Trace — OSINT / CTF** | Practical challenges, investigation notes, and write-ups associated with the Trace platform. |
-| **Cybersecurity Labs & Write-ups** | Hands-on learning exercises, technical notes, and security research. |
-
 ---
 
 ## 🏅 Achievements & Activities
