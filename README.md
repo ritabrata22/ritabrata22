@@ -112,8 +112,8 @@ Interested in developing research-backed projects and practical applications in:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ritabrata25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritabrata25&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ritabrata22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritabrata22&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages">
 </p>
 
 ---
