@@ -77,22 +77,15 @@ My long-term academic and professional interests include intelligence studies, c
 | Cybersecurity Job Simulation | Deloitte – Forage |
 | Tata Virtual Experience | Tata – Forage |
 
-**Additional Learning**
-
-- Terrorism and Counterterrorism: Comparing Theory and Practice — Leiden University (online course).
-- Cybersecurity and practical security training through hands-on labs and CTF platforms.
 
 ---
 
 ## 🏅 Achievements & Activities
 
 - **JBNSTS Junior Scholar** — Jagadish Bose National Science Talent Search.
-- **State Rank 4th** — WBCHSE academic achievement (11th standard, as previously reported).
+- **State Rank 4th & 11th** — WBCHSE academic achievement (12th standard).
 - **IEEE Student Member** — IEEE Computer Society.
 - **IEEE Student Branch** — Rashtriya Raksha University.
-- Participated in a counterterrorism mock drill organised by Rashtriya Raksha University.
-- Registered participant in KTIP 2026.
-- Conducted OSINT-based research on Operation Sindoor and Hafiz Saeed under academic guidance.
 - Participated in cybersecurity learning activities, CTFs and technology-focused hackathons.
 
 ---
