@@ -110,11 +110,6 @@ Interested in developing research-backed projects and practical applications in:
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
-
-## 📊 GitHub Statistics
-
 <p align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=ritabrata22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ritabrata22&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
