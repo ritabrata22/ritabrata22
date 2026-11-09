@@ -88,10 +88,12 @@ My long-term academic and professional interests include intelligence studies, c
 
 ## 🏅 Achievements & Activities
 
-- **JBNSTS Junior Scholar** — Jagadish Bose National Science Talent Search.
+- **Ghost Protocol CTF 2.0 Finalist** — Noida Institute of Engineering and Technology (NIET, Greater Noida).
 - **State Rank 4th & 11th** — WBCHSE academic achievement (12th standard).
+- **JBNSTS Junior Scholar** — Jagadish Bose National Science Talent Search.
 - **IEEE Student Member** — IEEE Computer Society.
 - **IEEE Student Branch** — Rashtriya Raksha University.
+- **ICTRD Student Member** — ICTRD Working Committee. 
 - Participated in cybersecurity learning activities, CTFs and technology-focused hackathons.
 
 ---
