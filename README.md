@@ -17,23 +17,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a first-year B.Tech student in Computer Science and Engineering (Cybersecurity) at **Rashtriya Raksha University (RRU), Gujarat**, an institution under the Ministry of Home Affairs, Government of India.
 
 My interests lie at the intersection of cybersecurity, intelligence and national security.
 
-- 🔍 Exploring Open-Source Intelligence (OSINT), Cyber Threat Intelligence (CTI) and Digital Forensics.
-- 🛡️ Interested in counterterrorism, intelligence analysis, information warfare and cybercrime investigation.
-- 💻 Developing practical cybersecurity skills through CTF challenges, Linux environments and hands-on projects.
-- 🌐 Exploring the role of emerging technologies in intelligence gathering and national security.
-- 🧠 Interested in research-driven approaches to cybersecurity and security studies.
+-  Exploring Open-Source Intelligence (OSINT), Cyber Threat Intelligence (CTI) and Digital Forensics.
+-  Interested in counterterrorism, intelligence analysis, information warfare and cybercrime investigation.
+-  Developing practical cybersecurity skills through CTF challenges, Linux environments and hands-on projects.
+-  Exploring the role of emerging technologies in intelligence gathering and national security.
+-  Interested in research-driven approaches to cybersecurity and security studies.
 
 My long-term academic and professional interests include intelligence studies, counterterrorism and national security.
 
 ---
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0B3D91?style=flat-square)
 ![OSINT](https://img.shields.io/badge/OSINT-2E7D32?style=flat-square)
@@ -46,7 +46,7 @@ My long-term academic and professional interests include intelligence studies, c
 
 ---
 
-## 🛠️ Technical Skills & Tools
+##  Technical Skills & Tools
 
 **Languages & Development**
 
@@ -73,7 +73,7 @@ My long-term academic and professional interests include intelligence studies, c
 
 ---
 
-## 🎓 Certifications & Professional Learning
+##  Certifications & Professional Learning
 
 | Course / Certification | Institution |
 |---|---|
@@ -86,7 +86,7 @@ My long-term academic and professional interests include intelligence studies, c
 
 ---
 
-## 🏅 Achievements & Activities
+##  Achievements & Activities
 
 - **Ghost Protocol CTF 2.0 Finalist** — Noida Institute of Engineering and Technology (NIET, Greater Noida).
 - **State Rank 4th & 11th** — WBCHSE academic achievement (12th standard).
@@ -98,7 +98,7 @@ My long-term academic and professional interests include intelligence studies, c
 
 ---
 
-## 🔬 Research & Projects
+##  Research & Projects
 
 Interested in developing research-backed projects and practical applications in:
 
@@ -110,7 +110,7 @@ Interested in developing research-backed projects and practical applications in:
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=ritabrata22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
@@ -124,7 +124,7 @@ Interested in developing research-backed projects and practical applications in:
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 Interested in connecting with individuals working or learning in:
 
