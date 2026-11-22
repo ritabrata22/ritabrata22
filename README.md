@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a first-year B.Tech student in Computer Science and Engineering (Cybersecurity) at **Rashtriya Raksha University (RRU), Gujarat**, an institution under the Ministry of Home Affairs, Government of India.
+I'm a first-year B.Tech student in Computer Science and Engineering (Cybersecurity) at **Rashtriya Raksha University (RRU), Gandhinagar**, an institution under the Ministry of Home Affairs, Government of India.
 
 My interests lie at the intersection of cybersecurity, intelligence and national security.
 
